@@ -38,7 +38,7 @@ Lumière is a concept landing page for a premium private hospital in Bengaluru. 
 - **Checkups** — the comprehensive health screening packages on offer
 - **Facilities** — a look at the physical space and equipment
 - **Centers** — specialty departments and centers of excellence
-- **Specialists** — the doctors, with real credentialing detail (National Medical Institute, Heartwell Institute, Oncology Excellence Center fellowships)
+- **Specialists** — the doctors, with fictional credentialing detail (National Medical Institute, Heartwell Institute, Oncology Excellence Center fellowships)
 - **Booking** — appointment request with a direct call option
 
 ## Built with
@@ -55,7 +55,7 @@ Lumière is a concept landing page for a premium private hospital in Bengaluru. 
 
 The preloader spells out "Lumière" letter by letter before the page reveals — a small, deliberate delay instead of a spinner. For a premium hospital brand, that half-second of anticipation does more for the "this is a considered, high-end place" feeling than any hero image could. It's the kind of detail that costs almost nothing in load time but changes the first impression entirely.
 
-Doctor credentials list real institutions (National Medical Institute, Heartwell Institute, Oncology Excellence Center) as fellowship/training affiliations rather than claiming the hospital itself is affiliated with them — a distinction that matters for a healthcare-adjacent site where credibility claims need to be precise, even in a concept build.
+Doctor credentials list fictional institutions (National Medical Institute, Heartwell Institute, Oncology Excellence Center) as fellowship/training affiliations rather than claiming the hospital itself is affiliated with them — a distinction that matters for a healthcare-adjacent site where credibility claims need to be precise, even in a concept build.
 
 ## Running it locally
 
