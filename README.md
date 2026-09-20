@@ -64,3 +64,4 @@ No build step — just open `index.html` in a browser.
 ## Status
 
 Demo/concept build. Contact details, pricing, and address are illustrative.
+Note: the MIT license in this repo covers the code only. It does not grant rights to the "Lumière" name, fictional brand content, or any wording/content on the page.
